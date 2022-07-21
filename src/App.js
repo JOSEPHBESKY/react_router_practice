@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
-import { BrowserRouter,Router,route, Routes, Route } from 'react-router-dom'
-import home from './home'
-import profile from './profile'
-import contact from './contact'
-import address from './address'
-import submit from './submit'
+import React, { Component } from 'react';
+import { BrowserRouter,Router,route, Routes, Route } from 'react-router-dom';
+import home from './home';
+import profile from './profile';
+import contact from './contact';
+import address from './address';
+import submit from './submit';
 
 export default class App extends Component {
   render() {
